@@ -33,6 +33,7 @@ AluraStoreBr_emanuel_sergio_challenger # dowloading do arquivo e upload como ind
 ![image](https://github.com/user-attachments/assets/4b911824-d78b-4e87-a0c4-b2fc43a89433)     ![image](https://github.com/user-attachments/assets/fd3e835b-3d7e-4990-b11c-4fdf2d640609)
 
 
+![image](https://github.com/user-attachments/assets/c95806ea-95b7-4622-b5d4-3d83539f4270)
+
+
 ![Uploading image.png…]()
-
-
