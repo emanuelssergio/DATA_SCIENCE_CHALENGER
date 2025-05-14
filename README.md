@@ -11,8 +11,14 @@ e deve ser descontinuada.
 
  README.md # Este arquivo
 
- notebooks/ # Notebooks Jupyter com a análise exploratória
+AluraStoreBr/ # Notebooks Jupyter importado diretamento usando uma aplicação do colab
+
+AluraStoreBr_emanuel_sergio_challenger # dowloading do arquivo e upload como indicado no challenger
+
+
 
  ## METORDOS UTILIZADOS
  Neste projeto, utilizei principalmente as bibliotecas pandas, para a análise de dados, e matplotlib, para a criação de diferentes gráficos. Com base nessas visualizações, foi possível chegar a algumas conclusões importantes sobre os dados, q haverao mais informaçoes no relatorio final localizado dentro do proprio arquivo do programa
- 
+
+
+ #graficos
